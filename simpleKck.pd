@@ -8,7 +8,6 @@
 #X obj 620 182 + 20;
 #X obj 620 138 * 1000;
 #X obj 218 285 loadbang;
-#X msg 226 370 \; pd dsp 1 \;;
 #X obj 387 230 f;
 #X floatatom 522 37 5 0 0 0 - - -;
 #X floatatom 660 46 5 0 0 0 - - -;
