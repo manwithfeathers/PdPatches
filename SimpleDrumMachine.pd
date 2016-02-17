@@ -40,7 +40,7 @@
 #X obj 846 71 * 1000;
 #X obj 613 146 f;
 #X obj 614 259 line~;
-#X msg 621 218 \$1 \, 20 \$2;
+#X msg 621 218 \$1 \, 0 \$2;
 #X obj 614 180 pack f f;
 #X obj 611 110 t b b b;
 #X obj 746 69 * 200;
